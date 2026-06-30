@@ -1,4 +1,4 @@
-# 🚀 Project 4: Scalable Web App using ALB & Auto Scaling (AWS)
+ Scalable Web App using ALB & Auto Scaling (AWS)
 
 ## 📌 Project Overview
 This project demonstrates how to deploy a **highly available and scalable web application** using AWS services.  
