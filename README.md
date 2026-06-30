@@ -77,11 +77,6 @@ This project is built using AWS Free Tier eligible services.
 - Launch Template
 - VPC
 
-### ⚠️ Paid Component:
-- Application Load Balancer (ALB) may incur small charges if left running
-
----
-
 ## 🎯 Key Learning Outcomes
 - How Auto Scaling works in real environments
 - Load balancing using ALB
@@ -91,12 +86,3 @@ This project is built using AWS Free Tier eligible services.
 
 ---
 
-## 🧹 Cleanup Steps (Important)
-To avoid AWS charges:
-- Delete Auto Scaling Group
-- Delete Launch Template
-- Delete Target Group
-- Delete Load Balancer (ALB)
-- Terminate EC2 Instances
-
---
